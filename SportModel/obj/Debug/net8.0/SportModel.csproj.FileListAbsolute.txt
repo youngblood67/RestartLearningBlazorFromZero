@@ -1,0 +1,11 @@
+E:\Git\Blazor\RestartLearningBlazorFromZero\SportModel\bin\Debug\net8.0\SportModel.deps.json
+E:\Git\Blazor\RestartLearningBlazorFromZero\SportModel\bin\Debug\net8.0\SportModel.dll
+E:\Git\Blazor\RestartLearningBlazorFromZero\SportModel\bin\Debug\net8.0\SportModel.pdb
+E:\Git\Blazor\RestartLearningBlazorFromZero\SportModel\obj\Debug\net8.0\SportModel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\Blazor\RestartLearningBlazorFromZero\SportModel\obj\Debug\net8.0\SportModel.AssemblyInfoInputs.cache
+E:\Git\Blazor\RestartLearningBlazorFromZero\SportModel\obj\Debug\net8.0\SportModel.AssemblyInfo.cs
+E:\Git\Blazor\RestartLearningBlazorFromZero\SportModel\obj\Debug\net8.0\SportModel.csproj.CoreCompileInputs.cache
+E:\Git\Blazor\RestartLearningBlazorFromZero\SportModel\obj\Debug\net8.0\SportModel.dll
+E:\Git\Blazor\RestartLearningBlazorFromZero\SportModel\obj\Debug\net8.0\refint\SportModel.dll
+E:\Git\Blazor\RestartLearningBlazorFromZero\SportModel\obj\Debug\net8.0\SportModel.pdb
+E:\Git\Blazor\RestartLearningBlazorFromZero\SportModel\obj\Debug\net8.0\ref\SportModel.dll

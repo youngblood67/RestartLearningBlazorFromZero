@@ -1,0 +1,21 @@
+﻿@page "/boxeurs"
+
+@* ------------------- Contenu page Razor ------------------- *@
+
+<PageTitle>Membres</PageTitle>
+
+<h1 class="boxeurs-titre">Boxeurs</h1>
+
+<div class="boxeurs-container">
+    @foreach (var boxeur in _boxeurs)
+    {
+        <div class="boxeur-card">
+            <h3>@boxeur.Prenom @boxeur.Nom</h3>
+            <p>Surnoms : @boxeur.ListeSurnomsEnChaineDeCaracteres</p>
+        </div>
+    }
+</div>
+
+
+@* ------------------- Mise en forme  CSS ------------------- *@
+
